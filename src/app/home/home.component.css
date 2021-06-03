@@ -1,0 +1,23 @@
+
+/* Home */
+
+.title {
+    margin-left: 5%;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.message {
+    margin-left: 5%;
+    margin-right: 5%;
+    letter-spacing: 1px;
+    line-height: 24px;
+    font-size: 1em;
+    font-weight: 500;
+    color: white;
+}
+
+
+
+
